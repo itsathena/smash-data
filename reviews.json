@@ -1,0 +1,79 @@
+[
+    {
+      "id": 1,
+      "slug": "burger-joint",
+      "title": "Burger Joint",
+      "restaurant": "The Smash House",
+      "description": "The smashburger that changed everything. Perfectly crispy edges, juicy center, and flavors that hit different.",
+      "rating": "PASS",
+      "date": "2024-05-15",
+      "image": "/images/hero1.jpeg",
+      "tags": ["burger", "smash", "beef", "comfort food"],
+      "fullReview": "Walking into The Smash House, you immediately know you're in for something special. The aroma hits you first – that perfect combination of caramelized beef and toasted buns that makes your mouth water instantly.\n\nThe star of the show is undoubtedly their signature smashburger. The patty is pressed thin on the griddle, creating those coveted crispy, lacy edges while maintaining a juicy center. The beef is high-quality, well-seasoned, and cooked to perfection.\n\nThe toppings are simple but effective: fresh lettuce, ripe tomato, pickles with just the right amount of tang, and their house sauce that brings everything together. The bun is soft but sturdy enough to hold everything without falling apart.\n\nAt $12, it's not the cheapest burger in town, but the quality justifies the price. The portion size is generous, and the fries that come with it are perfectly crispy.\n\nService was quick and friendly, and the atmosphere strikes the perfect balance between casual and trendy. This is definitely a place I'll be returning to regularly.",
+      "pros": [
+        "Perfect smash technique with crispy edges",
+        "High-quality beef with great seasoning",
+        "Fresh toppings and house-made sauce",
+        "Excellent value for money",
+        "Quick, friendly service"
+      ],
+      "cons": [
+        "Can get busy during peak hours",
+        "Limited seating space"
+      ],
+      "location": "Downtown Food District",
+      "priceRange": "$$"
+    },
+    {
+      "id": 2,
+      "slug": "noodle-house",
+      "title": "Noodle House",
+      "restaurant": "Golden Dragon Noodles",
+      "description": "Hand-pulled perfection in a bowl. Traditional techniques meet modern flavors in this authentic noodle experience.",
+      "rating": "SMASH",
+      "date": "2024-05-10",
+      "image": "/images/noodle-review.jpg",
+      "tags": ["noodles", "asian", "handmade", "soup"],
+      "fullReview": "Golden Dragon Noodles brings authentic hand-pulled noodle artistry to our city, and the results are genuinely impressive. Watching the noodle master work through the open kitchen is entertainment in itself – the rhythmic stretching and folding that transforms simple dough into silky strands is mesmerizing.\n\nThe beef noodle soup I ordered showcased these handmade noodles perfectly. The texture is something you simply can't get from machine-made noodles – there's a subtle chewiness and irregularity that adds character to every bite. The broth is rich and complex, clearly simmered for hours to achieve that deep, satisfying flavor.\n\nThe beef was tender and well-marinated, though I would have liked slightly larger portions for the price point. The vegetables were fresh and added nice color and crunch to balance the rich broth.\n\nService was attentive, and the staff was knowledgeable about their ingredients and preparation methods. The atmosphere is casual but clean, with an open kitchen that adds to the authentic feel.\n\nWhile not quite reaching the heights of the best noodle houses I've experienced, this is solid, authentic food that satisfies both hunger and curiosity about traditional techniques.",
+      "pros": [
+        "Authentic hand-pulled noodles",
+        "Rich, complex broth",
+        "Fresh ingredients",
+        "Educational open kitchen experience",
+        "Knowledgeable staff"
+      ],
+      "cons": [
+        "Beef portion could be more generous",
+        "Slightly pricey for the portion size",
+        "Limited parking"
+      ],
+      "location": "Chinatown District",
+      "priceRange": "$$$"
+    },
+    {
+      "id": 3,
+      "slug": "pizza-paradise",
+      "title": "Pizza Paradise",
+      "restaurant": "Slice of Heaven",
+      "description": "New York style pizza that actually lives up to the hype. Thin crust perfection with quality toppings.",
+      "rating": "SMASH",
+      "date": "2024-05-08",
+      "image": "/images/hero1.jpeg",
+      "tags": ["pizza", "italian", "thin crust", "cheese"],
+      "fullReview": "Slice of Heaven makes a solid attempt at authentic New York-style pizza, and while it doesn't quite transport you to Brooklyn, it's a respectable effort that satisfies the craving.\n\nThe crust achieves that characteristic thin, foldable texture that's essential to NY-style pizza. It's got good char on the bottom and enough structure to support the toppings without becoming soggy. The sauce strikes a nice balance – not too sweet, not too acidic, with a good herb presence.\n\nThe cheese blend is where they really shine. It's clearly high-quality mozzarella that melts beautifully and has that perfect stretch factor that makes for great Instagram shots and better eating. The pepperoni has good flavor and the right amount of oil that pools in those little cups.\n\nPortion sizes are generous – two slices will definitely fill you up. The price point is reasonable for the quality, though not exactly cheap.\n\nThe atmosphere is typical pizza joint casual, which works fine. Service is efficient, though not particularly memorable.\n\nOverall, it's good pizza that hits the spot when you're craving that classic style, even if it doesn't quite achieve greatness.",
+      "pros": [
+        "Authentic thin crust texture",
+        "High-quality cheese blend",
+        "Good sauce balance",
+        "Generous portion sizes",
+        "Reasonable pricing"
+      ],
+      "cons": [
+        "Doesn't quite reach authentic NYC levels",
+        "Basic atmosphere",
+        "Service could be more attentive"
+      ],
+      "location": "University District",
+      "priceRange": "$$"
+    }
+  ]
